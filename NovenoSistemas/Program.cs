@@ -14,6 +14,8 @@ namespace NovenoSistemas
             Console.WriteLine("Hola Mundo2");
             Console.WriteLine("Hola Mundo3");
             Console.WriteLine("Hola Mundo4");
+            Console.WriteLine("Hola Mundo5");
+            Console.WriteLine("Hola Mundo6");
 
         }
     }
