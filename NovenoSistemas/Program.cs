@@ -10,7 +10,11 @@ namespace NovenoSistemas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Hola Mundo1");
+            Console.WriteLine("Hola Mundo2");
+            Console.WriteLine("Hola Mundo3");
+            Console.WriteLine("Hola Mundo4");
+
         }
     }
 }
